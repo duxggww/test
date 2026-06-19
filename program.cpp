@@ -1,7 +1,8 @@
-#include <stdio.h>
+#include <iostream>
+
+int variable_int;
+double variable_double;
 
 int main() {
-    printf("Hello World\n");
     return 0;
 }
-EO
