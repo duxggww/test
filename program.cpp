@@ -1,4 +1,5 @@
 #include stdio.h
+#include studi.h
 
 int main() {
     int a;
